@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # :books:STACK:books:
+I’m currently working on ...
 <div>
   <img src="https://img.shields.io/badge/jquery-1572B6?style=flat-square&logo=jquery&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
